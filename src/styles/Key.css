@@ -1,0 +1,23 @@
+.key {
+  width: 100%;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(70, 70, 70);
+  color: white;
+  border-radius: 5px;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  box-shadow: 0 0 1px rgb(21, 21, 21);
+}
+
+.operator {
+  background-color: rgb(50, 50, 50);
+  color: white;
+}
+
+.clear {
+  grid-column: span 4;
+  background-color: rgb(60, 60, 60);
+  text-transform: uppercase;
+  font-size: 2rem;
+}
